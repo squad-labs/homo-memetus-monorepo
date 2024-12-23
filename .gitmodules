@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/squad-labs/homo-memetus-app.git
+[submodule "agent"]
+	path = agent
+	url = https://github.com/squad-labs/homo-memetus-ai.git
